@@ -4,3 +4,5 @@ const encontrarEstados = () => {
         .then((json) => console.log(json));
 
 }
+
+encontrarEstados()
